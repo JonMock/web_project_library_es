@@ -49,7 +49,8 @@
   color: #1f69c9;
   cursor: pointer;
 }
-. .header__title {
+
+.header__title {
   font-size: 66px;
   line-height: 76px;
   font-weight: 500;
@@ -105,6 +106,10 @@
 }
 
 .events:hover {
+  color: #1f69c9;
+}
+
+.events__more:hover {
   color: #1f69c9;
 }
 
